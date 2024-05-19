@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://laurens777.github.io/al-folio/sitemap.xml
+Sitemap: https://laurens777.github.io/sitemap.xml
