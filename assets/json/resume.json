@@ -20,7 +20,7 @@
   "education": [
     {
       "institution": "Simon Fraser University",
-      "location": "Burnaby, BC, Canada",
+      "location": "Canada",
       "url": "https://www.sfu.ca/",
       "area": "Linguistics",
       "studyType": "MA",
@@ -29,20 +29,20 @@
     },
     {
       "institution": "Simon Fraser University",
-      "location": "Burnaby, BC, Canada",
+      "location": "Canada",
       "url": "https://www.sfu.ca/",
       "area": "Computer Science and Linguistics",
       "studyType": "BSc",
-      "startDate": "2019",
-      "endDate": "2022"
+      "startDate": "2019-09-04",
+      "endDate": "2022-06-09"
     },
     {
       "institution": "University of the Fraser Valley",
-      "location": "Abbotsford, BC, Canada",
+      "location": "Canada",
       "url": "https://www.ufv.ca/",
       "area": "Modern Languages: Spanish",
       "studyType": "Certificate",
-      "startDate": "2016",
+      "startDate": "2016-09-06",
       "endDate": "2018"
     }
   ],
