@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-5-10 
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Presented my poster titled "Morphosyntactic Variation in the Greek of Greek-Canadians" at the UBC Graduate Student & Postdoctoral Research Day '24
