@@ -14,8 +14,7 @@
       "countryCode": "CA",
       "region": "BC"
     },
-    "profiles": [
-    ]
+    "profiles": []
   },
   "education": [
     {
@@ -24,8 +23,8 @@
       "url": "https://www.sfu.ca/",
       "area": "Linguistics",
       "studyType": "MA",
-      "startDate": "2022-09-07",
-      "endDate": "2025-12-04"
+      "startDate": "2022",
+      "endDate": "2025"
     },
     {
       "institution": "Simon Fraser University",
@@ -33,8 +32,8 @@
       "url": "https://www.sfu.ca/",
       "area": "Computer Science and Linguistics",
       "studyType": "BSc",
-      "startDate": "2019-09-04",
-      "endDate": "2022-06-09"
+      "startDate": "2019",
+      "endDate": "2022"
     },
     {
       "institution": "University of the Fraser Valley",
@@ -70,27 +69,13 @@
       "name": "Linguistics",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Sociolinguistics",
-        "Variation analysis",
-        "Data analysis",
-        "Corpus linguistics",
-        "Computational linguistics",
-        "Dialectology"
-      ]
+      "keywords": ["Sociolinguistics", "Variation analysis", "Data analysis", "Corpus linguistics", "Computational linguistics", "Dialectology"]
     },
     {
       "name": "Python",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Regular expressions",
-        "Pandas",
-        "Web scraping",
-        "Spacy",
-        "NLTK",
-        "Numpy"
-      ]
+      "keywords": ["Regular expressions", "Pandas", "Web scraping", "Spacy", "NLTK", "Numpy"]
     }
   ],
   "languages": [
